@@ -34,6 +34,7 @@ REVOKE DBA FROM USER3; -- 권한 회수
 
 
 
+ALTER USER bookuser ACCOUNT UNLOCK;
 
 
 
